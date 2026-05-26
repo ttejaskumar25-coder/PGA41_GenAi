@@ -1,3 +1,3 @@
 # PGA41_GenAi
 Summa - GenAi class
-summa edit panni pathen
+summa edit pannen 
